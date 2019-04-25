@@ -26,7 +26,8 @@ SECRET_KEY = 'lwg9^$yf4w!gb-(0stu051ym@a=1rh664ui9q*4r53v$50e(=2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-todo-jmpanoply.c9users.io']
+ALLOWED_HOSTS = ['django-todo-jmpanoply.c9users.io',
+                 'simple-django-todo-jm.herokuapp.com']
 
 
 # Application definition
